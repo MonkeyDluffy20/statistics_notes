@@ -1,1 +1,1 @@
-As a Data Scientist or Analyst you should have a deep understanding of the statistics. As, i learned day by day i created this document. So, that anyone can see and go through this document as it is very easy to learn and provides you a very basic and deep understanding.
+As a Data Scientist or Analyst you should deeply understand the statistics. I learned day by day I created this document. So, anyone can see and go through this document as it is easy to learn and provides a fundamental and deep understanding.
